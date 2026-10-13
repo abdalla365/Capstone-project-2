@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+<title id="title">CSS stylesheet icon</title>
+<rect x="26" y="26" width="204" height="204" rx="24" fill="#0B1020" stroke="#67E8F9" stroke-width="8"/>
+<path d="M50 36H206A14 14 0 0 1 220 50V64H36V50A14 14 0 0 1 50 36Z" fill="#647C96"/>
+<g fill="#67E8F9"><circle cx="53" cy="50" r="5"/><circle cx="73" cy="50" r="5"/><circle cx="93" cy="50" r="5"/></g>
+<g fill="none" stroke="#67E8F9" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<path d="M91 88H85Q77 88 77 100V113Q77 125 65 125Q77 125 77 137V150Q77 162 85 162H91M165 88H171Q179 88 179 100V113Q179 125 191 125Q179 125 179 137V150Q179 162 171 162H165"/>
+<path d="M111 107H148M111 125H139M111 143H148" stroke-width="7"/>
+</g>
+<!-- Outlined CSS lettering, no external font dependency. -->
+<g fill="#67E8F9">
+<path d="M85 182H107V189H87V205H107V212H85Q80 212 80 207V187Q80 182 85 182Z"/>
+<path d="M119 182H142V189H121V193H136Q142 193 142 199V206Q142 212 136 212H114V205H135V200H120Q114 200 114 194V188Q114 182 119 182Z"/>
+<path d="M154 182H177V189H156V193H171Q177 193 177 199V206Q177 212 171 212H149V205H170V200H155Q149 200 149 194V188Q149 182 154 182Z"/>
+</g></svg>

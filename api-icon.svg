@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+<title id="title">API communication icon</title>
+<rect x="26" y="26" width="204" height="204" rx="24" fill="#0B1020" stroke="#67E8F9" stroke-width="8"/>
+<path d="M50 36H206A14 14 0 0 1 220 50V64H36V50A14 14 0 0 1 50 36Z" fill="#647C96"/>
+<g fill="#67E8F9"><circle cx="53" cy="50" r="5"/><circle cx="73" cy="50" r="5"/><circle cx="93" cy="50" r="5"/></g>
+<g fill="none" stroke="#67E8F9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<rect x="52" y="101" width="32" height="49" rx="7"/>
+<rect x="172" y="101" width="32" height="49" rx="7"/>
+<path d="M98 111H158L147 100M158 140H98L109 151"/>
+</g>
+<g fill="#647C96"><circle cx="68" cy="125" r="5"/><circle cx="188" cy="125" r="5"/></g>
+<!-- Outlined API lettering, no external font dependency. -->
+<g fill="#67E8F9">
+<path fill-rule="evenodd" d="M82 212L92 182H103L113 212H105L103 205H92L90 212ZM94 198H101L97.5 187Z"/>
+<path fill-rule="evenodd" d="M120 212V182H139Q150 182 150 193Q150 204 139 204H127V212ZM127 189V197H138Q143 197 143 193Q143 189 138 189Z"/>
+<path d="M157 182H181V189H173V205H181V212H157V205H165V189H157Z"/>
+</g></svg>

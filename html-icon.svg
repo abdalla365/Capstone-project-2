@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+<title id="title">HTML code editor icon</title>
+<rect x="26" y="26" width="204" height="204" rx="24" fill="#0B1020" stroke="#67E8F9" stroke-width="8"/>
+<path d="M50 36H206A14 14 0 0 1 220 50V64H36V50A14 14 0 0 1 50 36Z" fill="#647C96"/>
+<g fill="#67E8F9"><circle cx="53" cy="50" r="5"/><circle cx="73" cy="50" r="5"/><circle cx="93" cy="50" r="5"/></g>
+<g fill="none" stroke="#67E8F9" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M94 102L62 126L94 150M162 102L194 126L162 150M142 88L114 162"/></g>
+<!-- Outlined lettering: no font dependency. -->
+<g fill="#67E8F9">
+<path d="M70 182H77V193H87V182H94V212H87V200H77V212H70Z"/>
+<path d="M99 182H125V189H116V212H109V189H99Z"/>
+<path d="M130 212V182H138L148 200L158 182H166V212H159V195L151 209H145L137 195V212Z"/>
+<path d="M173 182H180V205H194V212H173Z"/>
+</g></svg>
